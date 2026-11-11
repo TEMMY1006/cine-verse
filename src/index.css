@@ -1,0 +1,23 @@
+
+a.nav-link {
+    color: white;
+}
+a.nav-link:hover {
+    color: gold;
+}
+a.nav-link:active {
+    color: gold;
+}
+a.nav-link:last-child {
+    border: 2px solid gold;
+    border-radius: 10px;
+    padding: 12px;
+    background-color: gold;
+    color: black;
+}
+.carousel-item img {
+    min-height: 400px;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
