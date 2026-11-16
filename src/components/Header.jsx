@@ -18,7 +18,7 @@ function Header() {
             <Nav.Link href="/movie details">Movie Details</Nav.Link>
             <Nav.Link href="/book tickets">Contact</Nav.Link>
             <Nav.Link href="/contact">Services</Nav.Link>
-            <Nav.Link href="/services">Book Tickets</Nav.Link>
+            <button>Book Tickets</button>
           </Nav>
         </Navbar.Collapse>
       </Container>

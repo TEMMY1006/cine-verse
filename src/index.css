@@ -8,7 +8,7 @@ a.nav-link:hover {
 a.nav-link:active {
     color: gold;
 }
-a.nav-link:last-child {
+button {
     border: 2px solid gold;
     border-radius: 10px;
     padding: 12px;
@@ -20,4 +20,11 @@ a.nav-link:last-child {
     width: 100%;
     height: 600px;
     object-fit: cover;
+}
+footer {
+    padding: 20px;
+}
+.container-fluid img {
+    width: 300px;
+    height: 100px;
 }
