@@ -22,9 +22,17 @@ button {
     object-fit: cover;
 }
 footer {
-    padding: 20px;
+    padding: 40px;
 }
 .container-fluid img {
     width: 300px;
     height: 100px;
+}
+.testme {
+    height: 500px;
+    background-color: chocolate;
+    width: 300px;
+}
+.testme h4 {
+    display: none;
 }
