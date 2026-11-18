@@ -77,7 +77,7 @@ const movies = [
 
   return (
     <div>
-        <section>
+        <section className='now-showing bg-black text-white py-5 px-0'>
           <Container>
 <div>
   <p>Experience the Magik</p>
@@ -91,7 +91,7 @@ const movies = [
       <Row>
         {movies.map((movie) => (
 
-          <Col key={movie.id}>
+          <Col lg={2} key={movie.id}>
             
             <MovieCard movie={movie}/>
           </Col>

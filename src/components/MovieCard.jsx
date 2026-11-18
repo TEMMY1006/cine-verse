@@ -5,22 +5,22 @@ import Badge from 'react-bootstrap/Badge';
 
 const MovieCard = ({ movie }) => {
   return (
-    <Card style={{ width: '18rem' }}>
+    <Card className='movie-card position-relative border-0'>
 
       {/* Movie Poster */}
-      <Card.Img variant="top" src={movie.poster} />
+      <Card.Img variant="top" src={movie.poster} alt='{movie.title}'/>
 
       {/* Top-right age rating badge */}
-      <Badge bg="dark">New</Badge>
+      <Badge bg="dark" className='movie-rating position-absolute top-0 end-0 m-2 p-3'>{movie.rating}</Badge>
 
       {/* overlay badge */}
-      <div className=''>
+      <div className='movie-overlay'>
 
-
-        <button>
+<div className='text-center'>
+        <Button variant='danger' size='sm'>
           <span>▶</span>Play Trailer
-        </button>
-
+        </Button>
+</div>
 
 {/* Movie Title */}
 <Card.Title>Movie Title</Card.Title>
