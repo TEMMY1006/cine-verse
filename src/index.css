@@ -18,7 +18,7 @@ button {
 .carousel-item img {
     min-height: 400px;
     width: 100%;
-    height: 600px;
+    height: 530px;
     object-fit: cover;
 }
 footer {
@@ -105,4 +105,7 @@ h2 {
 }
 .grad {
     background-image: linear-gradient(to right, black, purple);
+}
+.start {
+margin-top: 50px;
 }

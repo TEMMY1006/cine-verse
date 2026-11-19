@@ -47,7 +47,7 @@ const movies = [
     title: "NO FURY",
     rating: "16+",
     duration: "3h 00min",
-    poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7BFZxNmfkZ8Z7ZO0gzTrtQAqwXBerUyO6d0k4GSuxg&s=10"
+    poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOqlb25NtIIjpx9SBoqUTKtcvAFlsN1aT8F-COEDxpQ&s=10"
   },
 
   { id: 7, 
@@ -95,7 +95,7 @@ const movies = [
 
 
   return (
-    <div>
+    <div >
         <section className='now-showing bg-dark text-white py-5 px-0'>
           <Container>
 <div className='hell'>
