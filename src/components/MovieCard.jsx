@@ -2,7 +2,6 @@ import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Badge from 'react-bootstrap/Badge';
-import Offcanvas from 'react-bootstrap/Offcanvas';
 
 const MovieCard = ({ movie }) => {
   return (
@@ -21,6 +20,7 @@ const MovieCard = ({ movie }) => {
           <span>▶</span>Play Trailer
         </Button>
 </div>
+
 
 <div className='div'>
 <div className='bg-black text-white h-100 mt-2 '>

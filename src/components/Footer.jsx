@@ -64,7 +64,7 @@ Your world of entertainment, all in one place.</p>
         <Col>
         <h5>Follow us</h5>
         <Nav>
-        <Nav.Link href="/facebook"> <i class="fa-brands fa-facebook"></i>Facebook</Nav.Link> <br />
+        <Nav.Link href="https://web.facebook.com/filmoneng" target='_blank'> <i class="fa-brands fa-facebook"></i>Facebook</Nav.Link> <br />
 <Nav.Link href="/instagram"><i class="fa-brands fa-instagram"></i>Instagram</Nav.Link>
 <Nav.Link href="/x(twitter)"><i class="fa-brands fa-x-twitter"></i>X(Twitter)</Nav.Link>
 <Nav.Link href="/Youtube"><i class="fa-brands fa-youtube"></i>Youtube</Nav.Link>
