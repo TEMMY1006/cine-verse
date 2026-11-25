@@ -45,6 +45,7 @@ const MovieCard = ({ movie }) => {
   {/* More Info */}
   <a href="">More Info ➔</a>
   </div>
+  
   </div>
   </div>
   

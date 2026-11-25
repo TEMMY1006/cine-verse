@@ -33,7 +33,7 @@ Your world of entertainment, all in one place.</p>
 
            <Nav.Link href="/now showing">Now Showing</Nav.Link>
 
-            <Nav.Link href="/cinema location">Cinema Location</Nav.Link>
+            <Nav.Link href="/cinemas">Cinemas</Nav.Link>
 
              <Nav.Link href="/showtimes">Showtimes</Nav.Link>
 </Nav>
@@ -43,21 +43,21 @@ Your world of entertainment, all in one place.</p>
         <Col>
 <h5>Explore</h5>
 <Nav>
-<Nav.Link href="/food and drinks">Food and Drinks</Nav.Link>
+<Nav.Link href="/refreshment">Refreshment</Nav.Link>
 <Nav.Link href="/about us">About us and Services</Nav.Link>
-<Nav.Link href="/contact us">Contact us</Nav.Link>
-<Nav.Link href="/my account">My Account</Nav.Link>
-<Nav.Link href="/my bookings">My bookings</Nav.Link>
+<Nav.Link href="/contact us">Contact us </Nav.Link>
+<Nav.Link href="/account">My Account</Nav.Link>
+<Nav.Link href="/bookings">My Bookings</Nav.Link>
 </Nav>
         </Col>
 
         <Col>
         <h5>Support</h5>
         <Nav>
-        <Nav.Link href="/help center">Help Center in Details</Nav.Link>
+        <Nav.Link href="/helpcenterindetails">Help Center in Details</Nav.Link>
 <Nav.Link href="/FAQs">FAQs</Nav.Link>
-<Nav.Link href="/booking assistance">Booking Assistance</Nav.Link>
-<Nav.Link href="/cancellation policy">Cancellation Policy</Nav.Link>
+<Nav.Link href="/bookingassistance">Booking Assistance</Nav.Link>
+<Nav.Link href="/cancellationpolicy">Cancellation Policy</Nav.Link>
 </Nav>
         </Col>
 
@@ -65,9 +65,9 @@ Your world of entertainment, all in one place.</p>
         <h5>Follow us</h5>
         <Nav>
         <Nav.Link href="https://web.facebook.com/filmoneng" target='_blank'> <i class="fa-brands fa-facebook"></i>Facebook</Nav.Link> <br />
-<Nav.Link href="/instagram"><i class="fa-brands fa-instagram"></i>Instagram</Nav.Link>
-<Nav.Link href="/x(twitter)"><i class="fa-brands fa-x-twitter"></i>X(Twitter)</Nav.Link>
-<Nav.Link href="/Youtube"><i class="fa-brands fa-youtube"></i>Youtube</Nav.Link>
+<Nav.Link href="https://www.instagram.com/filmhousecinemas"><i class="fa-brands fa-instagram"></i>Instagram</Nav.Link>
+<Nav.Link href="https://www.instagram.com/filmhousecinemas"><i class="fa-brands fa-x-twitter"></i>X(Twitter)</Nav.Link>
+<Nav.Link href="https://www.youtube.com/@filmhousecinemas9926"><i class="fa-brands fa-youtube"></i>Youtube</Nav.Link>
 </Nav>
         </Col>
         
